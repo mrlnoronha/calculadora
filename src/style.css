@@ -10,10 +10,11 @@ body{
 }
 
 div.botao{
-    color:black;
-    background-color: burlywood;  
+    color:green;
+    font-weight: bold;
+    background-color:honeydew;  
     border: 2px solid rgb(99, 94, 50);
     border-radius: 5px; 
-    width: 5%; 
+    width:60%; 
 }
 
