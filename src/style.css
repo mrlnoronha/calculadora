@@ -4,7 +4,6 @@ body{
     color: green;
     background-color: black;
     border: 2px solid powderblue;
-    width: 50%;
     align-items: center;
 
 }
@@ -14,7 +13,7 @@ div.botao{
     font-weight: bold;
     background-color:honeydew;  
     border: 2px solid rgb(99, 94, 50);
-    width: 23px; 
-    width:60%; 
+   
+    
 }
 
