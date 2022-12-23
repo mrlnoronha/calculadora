@@ -8,11 +8,13 @@ body{
 
 }
 
-div.botao{
-    color:green;
+button{
+    color:black;
     font-weight: bold;
+    font-size: 1cm;
     background-color:honeydew;  
-    border: 2px solid rgb(99, 94, 50);
+    border: 1px solid wheat;
+    border-radius: 8px;
    
     
 }
